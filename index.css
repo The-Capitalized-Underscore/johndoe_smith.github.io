@@ -1,0 +1,69 @@
+
+	body {
+		background-color: black;
+		color: white;
+		margin: 20px;
+	}
+	hr {
+		width: 80%;
+	}
+	.top {
+		padding: 15px;
+		text-align: center;
+		height: 75px;
+		padding-top: 10px;
+		padding-bottom: 20px;
+		}
+		.title {
+			border: 4px solid teal;
+			margin: auto;
+			width: 60%;
+			height: 100%;
+		}
+	.bottom {
+		margin-top: 10px;
+		height: 770px;
+		padding: 15px;
+		padding-top: 0px;
+		padding-bottom: 10px;
+	}		
+		.main {
+			margin-top: 20px;
+			border: solid teal;
+			margin: auto;
+			width: 60%;
+			text-align: center;
+			margin-top: 10px;
+			height:85%;
+			padding-bottom: 0px;
+			padding-top: 0px;
+		}
+	.text {
+		text-align: center;
+		padding-left: 20px;
+		padding-right: 20px;
+		line-height: 25px;
+	}
+	.secret {
+		width: 10%;
+		height: 100px;
+		background-color: black;
+		border: none;
+		display: inline-block;
+		position: absolute;
+	}
+	.secret:hover {
+		background: red;
+	}
+	.link {
+		color: #8FBC8F;
+	}
+	details > summary {
+		font-size: 20px;
+	}
+	
+	
+	
+	
+	
+	
